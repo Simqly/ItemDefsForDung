@@ -1,0 +1,131 @@
+item = #####    Item_Name				A_description_of_item.	HighAlchVal. | LowAlchVal.| ShopVal. | 
+(*)= before an item = meaning the stat for the specific item is done already
+------------------------------------------------------------------------------------------
+/Primal
+*item = 16711	Primal_Full_helm	A_Primal_Full_helm.	6934570	2932100	6234570	0	0	0	-6	-2	74	83	46	-1	77	0	0
+*item = 17259	Primal_Platebody	A_Primal_Platebody.	6934577	2932100	6234570	0	0	0	-30	-10	247	230	135	-6	251	0	0
+*item = 16689	Primal_Platelegs	A_primal_Platelegs.	6934576	2932100	6234570	0	0	0	-21	-7	182	158	87	-4	181	0	0
+*item = 16667	Primal_Plateskirt	A_primal_plateskirt.	6234570	2932100	6234570	0	0	0	-15	-4	86	100	112	-4	118	5	0
+*item = 17361	Primal_Kiteshield	A_primal_kiteshield.	6934575	2932100	6234570	25	0	0	-8	-2	70	123	102	-1	105	15	0
+*item = 16359	Primal_boots		A_pair_of_Primal_boots.	6934574	2932100	6234570	0	0	0	-3	-1	16	17	18	0	0	10	0
+*item = 16293	Primal_gauntlets	A_pair_of_Primal_gauntlets.	6934573	2932100	6234570	0	0	0	-1	-1	12	21	17	-1	11	14	0
+item = 15773	Primal_battleaxe	A_Primal_battleaxe.	9999942	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+item = 15774	Primal_battleaxe	A_Primal_battleaxe.	9999942	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16403	Primal_longsword	A_Primal_longsword.	9999944	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16404	Primal_longsword	A_Primal_longsword.	9999944	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+*item = 16425	Primal_maul	A_Primal_maul.	9999945	1	1	-4	-4	185	-4	0	0	0	0	-1	-1	166	0
+*item = 16426	Primal_maul	A_Primal_maul.	9999945	1	1	-4	-4	185	-4	0	0	0	0	-1	-1	166	0
+item = 16909	Primal_2h_sword	A_Primal_2h_sword.	9999946	1	1	-4	179	141	-4	0	0	0	0	0	-1	162	0
+item = 16910	Primal_2h_sword	A_Primal_2h_sword.	9999946	1	1	-4	179	141	-4	0	0	0	0	0	-1	162	0
+item = 16955	Primal_rapier	A_Primal_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Promethium
+*item = 16711	Promethium_Full_helm	A_Promethium_Full_helm.	6934564	35000	35000	0	0	0	-6	-2	67	75	41	-1	69	0	0
+*item = 17257	Promethium_platebody	A_Promethium_platebody.	6934569	35000	35000	0	0	0	-30	-10	223	207	122	-6	226	0	0
+*item = 16687	Promethium_platelegs	A_pair_of_Promethium_platelegs.	6934568	35000	35000	0	0	0	-21	-7	164	142	78	-4	163	0	0
+item = 17361	Promethium_Kiteshield	A_Promethium_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Promethium_boots		A_pair_of_Promethium_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+*item = 16293	Promethium_gauntlets	A_pair_of_Promethium_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Promethium_Rapier		A_Promethium_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Promethium_2h_sword		A_Promethium_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+*item = 16423	Promethium_maul	A_Promethium_maul.	9999941	1	1	-4	-4	167	-4	0	0	0	0	-1	-1	160	0
+*item = 16424	Promethium_maul	A_Promethium_maul.	9999941	1	1	-4	-4	167	-4	0	0	0	0	-1	-1	160	0
+item = 16293	Promethium_longsword	A_Promethium_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Gorgonite
+item = 16711	Gorgonite_Full_helm	A_Gorgonite_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Gorgonite_Platebody	A_Gorgonite_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Gorgonite_Platelegs	A_Gorgonite_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Gorgonite_Kiteshield	A_Gorgonite_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Gorgonite_boots		A_pair_of_Gorgonite_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Gorgonite_gauntlets	A_pair_of_Gorgonite_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Gorgonite_Rapier		A_Gorgonite_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Gorgonite_2h_sword		A_Gorgonite_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Gorgonite_maul		A_Gorgonite_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Gorgonite_longsword	A_Gorgonite_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/katagon
+item = 16711	Katagon_Full_helm	A_Katagon_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Katagon_Platebody	A_Katagon_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Katagon_Platelegs	A_Katagon_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Katagon_Kiteshield	A_Katagon_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Katagon_boots		A_pair_of_Katagon_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Katagon_gauntlets	A_pair_of_Katagon_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Katagon_Rapier		A_Katagon_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Katagon_2h_sword		A_Katagon_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Katagon_maul		A_Katagon_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Katagon_longsword	A_Katagon_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Argonite
+item = 16711	Argonite_Full_helm	An_Argonite_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Argonite_Platebody	An_Argonite_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Argonite_Platelegs	An_Argonite_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Argonite_Kiteshield	An_Argonite_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Argonite_boots		A_pair_of_Argonite_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Argonite_gauntlets	A_pair_of_Argonite_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Argonite_Rapier		An_Argonite_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Argonite_2h_sword		An_Argonite_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Argonite_maul		An_Argonite_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Argonite_longsword	A_nArgonite_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Zephyrium
+item = 16711	Zephyrium_Full_helm	A_Zephyrium_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Zephyrium_Platebody	A_Zephyrium_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Zephyrium_Platelegs	A_Zephyrium_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Zephyrium_Kiteshield	A_Zephyrium_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Zephyrium_boots		A_pair_of_Zephyrium_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Zephyrium_gauntlets	A_pair_of_Zephyrium_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Zephyrium_Rapier		A_Zephyrium_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Zephyrium_2h_sword		A_Zephyrium_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Zephyrium_maul		A_Zephyrium_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Zephyrium_longsword	A_Zephyrium_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Fractite
+item = 16711	Fractite_Full_helm	A_Fractite_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Fractite_Platebody	A_Fractite_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Fractite_Platelegs	A_Fractite_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Fractite_Kiteshield	A_Fractite_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Fractite_boots		A_pair_of_Fractite_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Fractite_gauntlets	A_pair_of_Fractite_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Fractite_Rapier		A_Fractite_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Fractite_2h_sword		A_Fractite_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Fractite_maul		A_Fractite_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Fractite_longsword	A_Fractite_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Kratonite
+item = 16711	Kratonite_Full_helm	A_Kratonite_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Kratonite_Platebody	A_Kratonite_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Kratonite_Platelegs	A_Kratonite_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Kratonite_Kiteshield	A_Kratonite_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Kratonite_boots		A_pair_of_Kratonite_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Kratonite_gauntlets	A_pair_of_Kratonite_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Kratonite_Rapier		A_Kratonite_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Kratonite_2h_sword		A_Kratonite_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Kratonite_maul		A_Kratonite_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Kratonite_longsword	A_Kratonite_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Marmaros
+item = 16711	Marmaros_Full_helm	A_Marmaros_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Marmaros_Platebody	A_Marmaros_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Marmaros_Platelegs	A_Marmaros_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Marmaros_Kiteshield	A_Marmaros_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Marmaros_boots		A_pair_of_Marmaros_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Marmaros_gauntlets	A_pair_of_Marmaros_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Marmaros_Rapier		A_Marmaros_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Marmaros_2h_sword		A_Marmaros_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Marmaros_maul		A_Marmaros_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Marmaros_longsword	A_Marmaros_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Bathus
+item = 16711	Bathus_Full_helm	A_Bathus_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Bathus_Platebody	A_Bathus_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Bathus_Platelegs	A_Bathus_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Bathus_Kiteshield	A_Bathus_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Bathus_boots		A_pair_of_Bathus_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Bathus_gauntlets	A_pair_of_Bathus_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Bathus_Rapier		A_Bathus_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Bathus_2h_sword		A_Bathus_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Bathus_maul		A_Bathus_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Bathus_longsword	A_Bathus_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/Novite
+item = 16711	Novite_Full_helm	A_Novite_Full_helm.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17259	Novite_Platebody	A_Novite_Platebody.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16689	Novite_Platelegs	A_Novite_Platelegs.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 17361	Novite_Kiteshield	A_Novite_kiteshield.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16359	Novite_boots		A_pair_of_Novite_boots.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Novite_gauntlets	A_pair_of_Novite_gauntlets.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Novite_Rapier		A_Novite_rapier.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Novite_2h_sword		A_Novite_2h_sword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Novite_maul		A_Novite_maul.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+item = 16293	Novite_longsword	A_Novite_longsword.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
